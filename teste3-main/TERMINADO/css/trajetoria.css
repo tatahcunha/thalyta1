@@ -1,0 +1,48 @@
+.container{
+width: 100%;
+height:200px;
+background-image:url('../img/cityskyline.jpg');
+}
+ul{
+    float: left;
+    width: 100%;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 200px;
+ }
+ ul li{
+    display: inline;
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+  a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+ }
+ a:hover{
+	background-color:#8844fd;
+    color: black;
+	padding:14px 14px;
+	border: 3px solid #00ff2a;	
+}
+
+.portfolio{
+text-align: center;
+color: #000000;
+background-color: #ffffff;
+font-family: 'Times New Roman', Times, serif;
+font-size: 200%;
+margin-top: 3%;
+margin-bottom: 3%;
+padding: 3%;
+border-radius: 20px 20px;
+height:7%;
+position:center;
+}
+h2{
+text-align: center;
+color: #000000;
+font-size: 50px;
+
+}

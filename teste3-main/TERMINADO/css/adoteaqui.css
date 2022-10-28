@@ -1,0 +1,67 @@
+.adoteaqui{
+    width: 60%;
+    height: 2.2em;
+    background-color: #00ff2a;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+    color: #000000;
+}
+.container{
+    display: inline-flex;
+    width: 35%;
+    height: 4.5em;
+    background-color: gray;
+    float: left;
+}
+ul{
+    float: left;
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+ }
+ ul li{
+    display: inline;
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+  a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 25px;
+ }
+
+ a:hover{
+	background-color: oldlace;
+    color: black;
+	padding:14px 14px;
+	border: 3px solid #00ff2a;	
+}
+p{
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 14px;
+    text-decoration: none;
+}
+img{
+    width: 20em;
+    height: 20em;
+    margin-left: 55px;
+
+}
+.img-responsive{
+    width:25%;
+    float: left;
+    margin-left: 40%;
+    margin-top: 10%;
+  }
+  h2{
+margin-left: 70px;
+
+
+
+
+  }
+
+  
